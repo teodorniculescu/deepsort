@@ -1,3 +1,6 @@
+deepsort_venv_3_8/
+*mp4
+*.swp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

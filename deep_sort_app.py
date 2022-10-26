@@ -94,6 +94,8 @@ def gather_sequence_info(sequence_dir, detection_file):
 
 
 def create_detections(detection_mat, frame_idx, min_height=0):
+    print(detection_mat)
+    exit()
     """Create detections for given frame index from the raw detection matrix.
 
     Parameters

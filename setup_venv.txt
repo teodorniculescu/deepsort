@@ -1,0 +1,5 @@
+python3.8 -m venv deepsort_venv_3_8
+source deepsort_venv_3_8/bin/activate
+python -m pip install --upgrade pip
+pip install opencv-contrib-python==4.1.2.30 opencv-python==4.1.2.30 scikit-learn scikit-learn tensorflow==2.10.0
+
